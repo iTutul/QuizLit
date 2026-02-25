@@ -11,7 +11,7 @@ The TOGAF Practitioner exam is unlike most multiple-choice tests. Every question
 ---
 
 ## Practice Online
-[https://quizlit.itutul.com/](QuizLit-App) 
+[QuizLit-App](https://quizlit.itutul.com/) 
 
 ---
 

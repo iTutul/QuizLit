@@ -43,6 +43,9 @@ st.markdown("""
 5. Upload your own question bank by using a JSON template file.
 6. No registration or data collection.
 """)
+
+st.info('The project is still in its very early stages, so you may notice a few hiccups.', icon="ℹ️")
+
 st.divider()
 
 # ---------------------------------------------------------------------------

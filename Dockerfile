@@ -15,15 +15,3 @@ ENTRYPOINT ["streamlit", "run", "app.py", \
     "--server.port=8501", \
     "--server.address=0.0.0.0", \
     "--server.headless=true"]
-```
-
----
-
-### Step 2 — Make sure `requirements.txt` exists too
-
-Check your repo root for `requirements.txt`. If missing, create it:
-```
-streamlit
-matplotlib
-openpyxl
-pandas
